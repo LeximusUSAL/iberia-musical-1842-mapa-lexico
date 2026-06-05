@@ -1,0 +1,2821 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.703507,
+     40.416782
+    ]
+   },
+   "properties": {
+    "lugar": "Madrid",
+    "tipo": "ciudad",
+    "frecuencia": 166,
+    "frecuencia_no_editorial": 64
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.320041,
+     48.8588897
+    ]
+   },
+   "properties": {
+    "lugar": "París",
+    "tipo": "ciudad",
+    "frecuencia": 101,
+    "frecuencia_no_editorial": 97
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.8379791,
+     39.3260685
+    ]
+   },
+   "properties": {
+    "lugar": "España",
+    "tipo": "pais",
+    "frecuencia": 81,
+    "frecuencia_no_editorial": 75
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.674297,
+     42.6384261
+    ]
+   },
+   "properties": {
+    "lugar": "Italia",
+    "tipo": "pais",
+    "frecuencia": 76,
+    "frecuencia_no_editorial": 75
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1726,
+     41.3796
+    ]
+   },
+   "properties": {
+    "lugar": "Gran Teatro del Liceo (Barcelona)",
+    "tipo": "sala",
+    "frecuencia": 57,
+    "frecuencia_no_editorial": 49
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7017,
+     40.4155
+    ]
+   },
+   "properties": {
+    "lugar": "Teatro de la Cruz (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 35,
+    "frecuencia_no_editorial": 34
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7035,
+     40.4168
+    ]
+   },
+   "properties": {
+    "lugar": "Instituto Español (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 35,
+    "frecuencia_no_editorial": 34
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.0,
+     50.0
+    ]
+   },
+   "properties": {
+    "lugar": "Europa",
+    "tipo": "region",
+    "frecuencia": 35,
+    "frecuencia_no_editorial": 32
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.3725042,
+     48.2083537
+    ]
+   },
+   "properties": {
+    "lugar": "Viena",
+    "tipo": "ciudad",
+    "frecuencia": 30,
+    "frecuencia_no_editorial": 30
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6965,
+     40.4085
+    ]
+   },
+   "properties": {
+    "lugar": "Teatro del Circo (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 28,
+    "frecuencia_no_editorial": 28
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.4478313,
+     51.1638175
+    ]
+   },
+   "properties": {
+    "lugar": "Alemania",
+    "tipo": "pais",
+    "frecuencia": 27,
+    "frecuencia_no_editorial": 26
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7035,
+     40.4168
+    ]
+   },
+   "properties": {
+    "lugar": "Museo Lírico (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 26,
+    "frecuencia_no_editorial": 26
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1277653,
+     51.5074456
+    ]
+   },
+   "properties": {
+    "lugar": "Londres",
+    "tipo": "ciudad",
+    "frecuencia": 25,
+    "frecuencia_no_editorial": 20
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.8883335,
+     46.603354
+    ]
+   },
+   "properties": {
+    "lugar": "Francia",
+    "tipo": "pais",
+    "frecuencia": 23,
+    "frecuencia_no_editorial": 22
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.4829321,
+     41.8933203
+    ]
+   },
+   "properties": {
+    "lugar": "Roma",
+    "tipo": "ciudad",
+    "frecuencia": 21,
+    "frecuencia_no_editorial": 21
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.3951309,
+     52.5173885
+    ]
+   },
+   "properties": {
+    "lugar": "Berlín",
+    "tipo": "ciudad",
+    "frecuencia": 15,
+    "frecuencia_no_editorial": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.3105232,
+     45.4046171
+    ]
+   },
+   "properties": {
+    "lugar": "Venecia",
+    "tipo": "ciudad",
+    "frecuencia": 14,
+    "frecuencia_no_editorial": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5973,
+     37.176
+    ]
+   },
+   "properties": {
+    "lugar": "Granada",
+    "tipo": "ciudad",
+    "frecuencia": 13,
+    "frecuencia_no_editorial": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.2487679,
+     40.8358846
+    ]
+   },
+   "properties": {
+    "lugar": "Nápoles",
+    "tipo": "ciudad",
+    "frecuencia": 11,
+    "frecuencia_no_editorial": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.9953403,
+     37.3886303
+    ]
+   },
+   "properties": {
+    "lugar": "Sevilla",
+    "tipo": "ciudad",
+    "frecuencia": 11,
+    "frecuencia_no_editorial": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.5745043,
+     41.8523094
+    ]
+   },
+   "properties": {
+    "lugar": "Cataluña",
+    "tipo": "region",
+    "frecuencia": 11,
+    "frecuencia_no_editorial": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6964,
+     40.4212
+    ]
+   },
+   "properties": {
+    "lugar": "Conservatorio (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 10,
+    "frecuencia_no_editorial": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.2501,
+     40.8333
+    ]
+   },
+   "properties": {
+    "lugar": "Teatro San Carlo (Nápoles)",
+    "tipo": "sala",
+    "frecuencia": 10,
+    "frecuencia_no_editorial": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.1896346,
+     45.4641943
+    ]
+   },
+   "properties": {
+    "lugar": "Milán",
+    "tipo": "ciudad",
+    "frecuencia": 9,
+    "frecuencia_no_editorial": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7035,
+     40.4168
+    ]
+   },
+   "properties": {
+    "lugar": "Liceo Artístico (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 8,
+    "frecuencia_no_editorial": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.2556404,
+     43.7697955
+    ]
+   },
+   "properties": {
+    "lugar": "Florencia",
+    "tipo": "ciudad",
+    "frecuencia": 8,
+    "frecuencia_no_editorial": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3763353,
+     39.4697065
+    ]
+   },
+   "properties": {
+    "lugar": "Valencia",
+    "tipo": "ciudad",
+    "frecuencia": 8,
+    "frecuencia_no_editorial": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.6824892,
+     45.0677551
+    ]
+   },
+   "properties": {
+    "lugar": "Turín",
+    "tipo": "ciudad",
+    "frecuencia": 8,
+    "frecuencia_no_editorial": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.4422005,
+     36.7647913
+    ]
+   },
+   "properties": {
+    "lugar": "Málaga",
+    "tipo": "ciudad",
+    "frecuencia": 8,
+    "frecuencia_no_editorial": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.3317,
+     45.4334
+    ]
+   },
+   "properties": {
+    "lugar": "La Fenice (Venecia)",
+    "tipo": "sala",
+    "frecuencia": 7,
+    "frecuencia_no_editorial": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.1332,
+     19.4326
+    ]
+   },
+   "properties": {
+    "lugar": "México D.F.",
+    "tipo": "ciudad",
+    "frecuencia": 7,
+    "frecuencia_no_editorial": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.352493,
+     50.8467372
+    ]
+   },
+   "properties": {
+    "lugar": "Bruselas",
+    "tipo": "ciudad",
+    "frecuencia": 6,
+    "frecuencia_no_editorial": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.1892,
+     45.4674
+    ]
+   },
+   "properties": {
+    "lugar": "Teatro alla Scala (Milán)",
+    "tipo": "sala",
+    "frecuencia": 6,
+    "frecuencia_no_editorial": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.3426327,
+     44.4938203
+    ]
+   },
+   "properties": {
+    "lugar": "Bolonia",
+    "tipo": "ciudad",
+    "frecuencia": 6,
+    "frecuencia_no_editorial": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.2765753,
+     54.7023545
+    ]
+   },
+   "properties": {
+    "lugar": "Reino Unido",
+    "tipo": "pais",
+    "frecuencia": 6,
+    "frecuencia_no_editorial": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3449,
+     48.8706
+    ]
+   },
+   "properties": {
+    "lugar": "Théâtre-Italien (París)",
+    "tipo": "sala",
+    "frecuencia": 5,
+    "frecuencia_no_editorial": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4276832,
+     43.7323492
+    ]
+   },
+   "properties": {
+    "lugar": "Mónaco",
+    "tipo": "ciudad",
+    "frecuencia": 5,
+    "frecuencia_no_editorial": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9338624,
+     44.40726
+    ]
+   },
+   "properties": {
+    "lugar": "Génova",
+    "tipo": "ciudad",
+    "frecuencia": 5,
+    "frecuencia_no_editorial": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.7760138,
+     37.8845813
+    ]
+   },
+   "properties": {
+    "lugar": "Córdoba",
+    "tipo": "ciudad",
+    "frecuencia": 5,
+    "frecuencia_no_editorial": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.708,
+     40.4155
+    ]
+   },
+   "properties": {
+    "lugar": "Santo Tomás (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 5,
+    "frecuencia_no_editorial": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.1365919,
+     38.7077507
+    ]
+   },
+   "properties": {
+    "lugar": "Lisboa",
+    "tipo": "ciudad",
+    "frecuencia": 5,
+    "frecuencia_no_editorial": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6591803,
+     40.3868601
+    ]
+   },
+   "properties": {
+    "lugar": "Vallecas",
+    "tipo": "ciudad",
+    "frecuencia": 5,
+    "frecuencia_no_editorial": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.2928976,
+     36.5297438
+    ]
+   },
+   "properties": {
+    "lugar": "Cádiz",
+    "tipo": "ciudad",
+    "frecuencia": 5,
+    "frecuencia_no_editorial": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.3122,
+     48.1845
+    ]
+   },
+   "properties": {
+    "lugar": "Schönbrunn (Viena)",
+    "tipo": "sala",
+    "frecuencia": 5,
+    "frecuencia_no_editorial": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5881,
+     37.176
+    ]
+   },
+   "properties": {
+    "lugar": "La Alhambra (Granada)",
+    "tipo": "sala",
+    "frecuencia": 5,
+    "frecuencia_no_editorial": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7012,
+     40.4143
+    ]
+   },
+   "properties": {
+    "lugar": "Teatro del Príncipe (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 4,
+    "frecuencia_no_editorial": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.5800364,
+     44.841225
+    ]
+   },
+   "properties": {
+    "lugar": "Burdeos",
+    "tipo": "ciudad",
+    "frecuencia": 4,
+    "frecuencia_no_editorial": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.1586551,
+     59.9606739
+    ]
+   },
+   "properties": {
+    "lugar": "San Petersburgo",
+    "tipo": "ciudad",
+    "frecuencia": 4,
+    "frecuencia_no_editorial": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.6343227,
+     52.2434979
+    ]
+   },
+   "properties": {
+    "lugar": "Países Bajos",
+    "tipo": "pais",
+    "frecuencia": 4,
+    "frecuencia_no_editorial": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.177073,
+     41.3825802
+    ]
+   },
+   "properties": {
+    "lugar": "Barcelona",
+    "tipo": "ciudad",
+    "frecuencia": 4,
+    "frecuencia_no_editorial": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8924534,
+     52.3730796
+    ]
+   },
+   "properties": {
+    "lugar": "Ámsterdam",
+    "tipo": "ciudad",
+    "frecuencia": 4,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.9229282,
+     40.6005259
+    ]
+   },
+   "properties": {
+    "lugar": "Teruel",
+    "tipo": "ciudad",
+    "frecuencia": 4,
+    "frecuencia_no_editorial": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.9131228,
+     43.9098114
+    ]
+   },
+   "properties": {
+    "lugar": "Pésaro",
+    "tipo": "ciudad",
+    "frecuencia": 4,
+    "frecuencia_no_editorial": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.3812,
+     48.2002
+    ]
+   },
+   "properties": {
+    "lugar": "Schwarzenberg (Viena)",
+    "tipo": "sala",
+    "frecuencia": 4,
+    "frecuencia_no_editorial": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.3427,
+     44.4948
+    ]
+   },
+   "properties": {
+    "lugar": "Accademia Filarmonica (Bolonia)",
+    "tipo": "sala",
+    "frecuencia": 3,
+    "frecuencia_no_editorial": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.6640182,
+     40.9651572
+    ]
+   },
+   "properties": {
+    "lugar": "Salamanca",
+    "tipo": "ciudad",
+    "frecuencia": 3,
+    "frecuencia_no_editorial": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3472,
+     48.8706
+    ]
+   },
+   "properties": {
+    "lugar": "Opéra-Comique (París)",
+    "tipo": "sala",
+    "frecuencia": 3,
+    "frecuencia_no_editorial": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.5060937,
+     47.1817585
+    ]
+   },
+   "properties": {
+    "lugar": "Hungría",
+    "tipo": "pais",
+    "frecuencia": 3,
+    "frecuencia_no_editorial": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.0013165,
+     53.5501721
+    ]
+   },
+   "properties": {
+    "lugar": "Hamburgo",
+    "tipo": "ciudad",
+    "frecuencia": 3,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.717,
+     40.475
+    ]
+   },
+   "properties": {
+    "lugar": "La Quinta de la Bella (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 3,
+    "frecuencia_no_editorial": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.3589631,
+     23.135305
+    ]
+   },
+   "properties": {
+    "lugar": "La Habana",
+    "tipo": "ciudad",
+    "frecuencia": 3,
+    "frecuencia_no_editorial": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8100255,
+     43.4618932
+    ]
+   },
+   "properties": {
+    "lugar": "Santander",
+    "tipo": "ciudad",
+    "frecuencia": 3,
+    "frecuencia_no_editorial": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.1131029,
+     37.9347521
+    ]
+   },
+   "properties": {
+    "lugar": "Murcia",
+    "tipo": "ciudad",
+    "frecuencia": 3,
+    "frecuencia_no_editorial": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3763,
+     39.4699
+    ]
+   },
+   "properties": {
+    "lugar": "Liceo de Valencia",
+    "tipo": "sala",
+    "frecuencia": 3,
+    "frecuencia_no_editorial": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7145,
+     40.4182
+    ]
+   },
+   "properties": {
+    "lugar": "Capilla Real (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 3,
+    "frecuencia_no_editorial": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9350039,
+     43.2630018
+    ]
+   },
+   "properties": {
+    "lugar": "Bilbao",
+    "tipo": "ciudad",
+    "frecuencia": 3,
+    "frecuencia_no_editorial": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7035,
+     40.4168
+    ]
+   },
+   "properties": {
+    "lugar": "Academia Filarmónica Matritense (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 3,
+    "frecuencia_no_editorial": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3316,
+     48.8719
+    ]
+   },
+   "properties": {
+    "lugar": "Ópera de París",
+    "tipo": "sala",
+    "frecuencia": 3,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0060152,
+     40.7127281
+    ]
+   },
+   "properties": {
+    "lugar": "Nueva York",
+    "tipo": "ciudad",
+    "frecuencia": 3,
+    "frecuencia_no_editorial": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.3927685,
+     47.2654296
+    ]
+   },
+   "properties": {
+    "lugar": "Innsbruck",
+    "tipo": "ciudad",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.5,
+     51.0
+    ]
+   },
+   "properties": {
+    "lugar": "Sajonia",
+    "tipo": "region",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7073,
+     40.4159
+    ]
+   },
+   "properties": {
+    "lugar": "San Felipe el Real (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.4797,
+     41.9
+    ]
+   },
+   "properties": {
+    "lugar": "Accademia di Santa Cecilia (Roma)",
+    "tipo": "sala",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.1451285,
+     34.9823018
+    ]
+   },
+   "properties": {
+    "lugar": "Chipre",
+    "tipo": "pais",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.1883749,
+     55.9533456
+    ]
+   },
+   "properties": {
+    "lugar": "Edimburgo",
+    "tipo": "ciudad",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.9877132,
+     38.9953683
+    ]
+   },
+   "properties": {
+    "lugar": "Grecia",
+    "tipo": "pais",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.1024635,
+     50.7352621
+    ]
+   },
+   "properties": {
+    "lugar": "Bonn",
+    "tipo": "ciudad",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.3747329,
+     51.3406321
+    ]
+   },
+   "properties": {
+    "lugar": "Leipzig",
+    "tipo": "ciudad",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.024265,
+     39.8558913
+    ]
+   },
+   "properties": {
+    "lugar": "Toledo",
+    "tipo": "ciudad",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.1281427,
+     40.5836411
+    ]
+   },
+   "properties": {
+    "lugar": "El Escorial",
+    "tipo": "ciudad",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3777888,
+     43.2963986
+    ]
+   },
+   "properties": {
+    "lugar": "Marsella",
+    "tipo": "ciudad",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.1140518,
+     56.7861112
+    ]
+   },
+   "properties": {
+    "lugar": "Escocia",
+    "tipo": "region",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9166389,
+     53.3933411
+    ]
+   },
+   "properties": {
+    "lugar": "Liverpool",
+    "tipo": "ciudad",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.9101268,
+     41.6915847
+    ]
+   },
+   "properties": {
+    "lugar": "Zaragoza",
+    "tipo": "ciudad",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7143,
+     40.4179
+    ]
+   },
+   "properties": {
+    "lugar": "Palacio Real (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.2319736,
+     46.7985624
+    ]
+   },
+   "properties": {
+    "lugar": "Suiza",
+    "tipo": "pais",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6844,
+     40.4153
+    ]
+   },
+   "properties": {
+    "lugar": "El Retiro (Madrid)",
+    "tipo": "ciudad",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1336,
+     51.5071
+    ]
+   },
+   "properties": {
+    "lugar": "Her Majesty's Theatre (Londres)",
+    "tipo": "sala",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.5,
+     50.0
+    ]
+   },
+   "properties": {
+    "lugar": "Bohemia",
+    "tipo": "region",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.705,
+     40.4165
+    ]
+   },
+   "properties": {
+    "lugar": "Carmelitas Calzados (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.341,
+     48.8686
+    ]
+   },
+   "properties": {
+    "lugar": "Théâtre Ventadour (París)",
+    "tipo": "sala",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.4212535,
+     50.0874654
+    ]
+   },
+   "properties": {
+    "lugar": "Praga",
+    "tipo": "ciudad",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.0,
+     52.5
+    ]
+   },
+   "properties": {
+    "lugar": "Prusia",
+    "tipo": "region",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5997,
+     37.1773
+    ]
+   },
+   "properties": {
+    "lugar": "Liceo de Granada",
+    "tipo": "sala",
+    "frecuencia": 2,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.4534,
+     41.9022
+    ]
+   },
+   "properties": {
+    "lugar": "Basílica de San Pedro (Vaticano)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.7381437,
+     51.0493286
+    ]
+   },
+   "properties": {
+    "lugar": "Dresde",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.8767337,
+     43.6112422
+    ]
+   },
+   "properties": {
+    "lugar": "Montpellier",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.2829111,
+     54.6870458
+    ]
+   },
+   "properties": {
+    "lugar": "Vilna",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.1873,
+     45.4641
+    ]
+   },
+   "properties": {
+    "lugar": "Teatro della Canobbiana (Milán)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.696,
+     40.4153
+    ]
+   },
+   "properties": {
+    "lugar": "Palacio de Villahermosa (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7047,
+     40.4157
+    ]
+   },
+   "properties": {
+    "lugar": "San Luis (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.688,
+     45.0706
+    ]
+   },
+   "properties": {
+    "lugar": "Teatro Regio (Turín)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.5208584,
+     59.6749712
+    ]
+   },
+   "properties": {
+    "lugar": "Suecia",
+    "tipo": "pais",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.7876653,
+     61.1529386
+    ]
+   },
+   "properties": {
+    "lugar": "Noruega",
+    "tipo": "pais",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.5811614,
+     37.3399964
+    ]
+   },
+   "properties": {
+    "lugar": "Andalucía",
+    "tipo": "region",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6812477,
+     42.3448498
+    ]
+   },
+   "properties": {
+    "lugar": "Burgos",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.3572,
+     50.8476
+    ]
+   },
+   "properties": {
+    "lugar": "Cercle Philharmonique (Bruselas)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4736657,
+     43.4945144
+    ]
+   },
+   "properties": {
+    "lugar": "Bayona (Francia)",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3499,
+     48.853
+    ]
+   },
+   "properties": {
+    "lugar": "Catedral de Notre-Dame (París)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.7639282,
+     43.5171442
+    ]
+   },
+   "properties": {
+    "lugar": "Arezzo",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.1296751,
+     49.8158683
+    ]
+   },
+   "properties": {
+    "lugar": "Luxemburgo",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5,
+     41.5
+    ]
+   },
+   "properties": {
+    "lugar": "Castilla",
+    "tipo": "region",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.1353519,
+     39.6621648
+    ]
+   },
+   "properties": {
+    "lugar": "Portugal",
+    "tipo": "pais",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7086231,
+     42.7027944
+    ]
+   },
+   "properties": {
+    "lugar": "Navarra",
+    "tipo": "region",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.7,
+     42.7
+    ]
+   },
+   "properties": {
+    "lugar": "Rosellón",
+    "tipo": "region",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.0638506,
+     44.0580563
+    ]
+   },
+   "properties": {
+    "lugar": "Provenza",
+    "tipo": "region",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.3756199,
+     45.4039367
+    ]
+   },
+   "properties": {
+    "lugar": "Lemosín",
+    "tipo": "region",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.5,
+     43.5
+    ]
+   },
+   "properties": {
+    "lugar": "Gascuña",
+    "tipo": "region",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.9857377,
+     45.4424977
+    ]
+   },
+   "properties": {
+    "lugar": "Verona",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.1389204,
+     43.4586541
+    ]
+   },
+   "properties": {
+    "lugar": "Toscana",
+    "tipo": "region",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.7436,
+     37.5175
+    ]
+   },
+   "properties": {
+    "lugar": "Sutera (Sicilia)",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.5353,
+     45.5455
+    ]
+   },
+   "properties": {
+    "lugar": "Vicenza",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1076133,
+     41.1555564
+    ]
+   },
+   "properties": {
+    "lugar": "Reus",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.1234225,
+     38.1960293
+    ]
+   },
+   "properties": {
+    "lugar": "Castellar de Aragon",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8284338,
+     40.350052
+    ]
+   },
+   "properties": {
+    "lugar": "Santa María (iglesia, Madrid)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6422977,
+     41.3527628
+    ]
+   },
+   "properties": {
+    "lugar": "Calatayud",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.1313528,
+     40.0661031
+    ]
+   },
+   "properties": {
+    "lugar": "Cuenca",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7099,
+     40.415
+    ]
+   },
+   "properties": {
+    "lugar": "San Justo (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.2675469,
+     26.2540493
+    ]
+   },
+   "properties": {
+    "lugar": "Egipto",
+    "tipo": "pais",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.8407,
+     41.5934
+    ]
+   },
+   "properties": {
+    "lugar": "Montserrat (Barcelona)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.031926,
+     49.2577886
+    ]
+   },
+   "properties": {
+    "lugar": "Reims",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.0305773,
+     40.0912813
+    ]
+   },
+   "properties": {
+    "lugar": "Cerdeña",
+    "tipo": "region",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.6092307,
+     41.1425058
+    ]
+   },
+   "properties": {
+    "lugar": "Convento de Santa Clara",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.4528527,
+     41.903411
+    ]
+   },
+   "properties": {
+    "lugar": "Ciudad del Vaticano",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.707,
+     40.414
+    ]
+   },
+   "properties": {
+    "lugar": "San Roque (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3415715,
+     48.8867054
+    ]
+   },
+   "properties": {
+    "lugar": "Montmartre (París)",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3932,
+     48.86
+    ]
+   },
+   "properties": {
+    "lugar": "Père Lachaise (París)",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.445882,
+     39.7837304
+    ]
+   },
+   "properties": {
+    "lugar": "Estados Unidos",
+    "tipo": "pais",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.0,
+     -15.0
+    ]
+   },
+   "properties": {
+    "lugar": "América del Sur",
+    "tipo": "region",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.705,
+     40.4165
+    ]
+   },
+   "properties": {
+    "lugar": "Carmelitas (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3123,
+     48.8556
+    ]
+   },
+   "properties": {
+    "lugar": "Hôtel des Invalides (París)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.7639373,
+     41.3787291
+    ]
+   },
+   "properties": {
+    "lugar": "Aragón",
+    "tipo": "region",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.5,
+     48.5
+    ]
+   },
+   "properties": {
+    "lugar": "Suabia",
+    "tipo": "region",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.0494106,
+     34.6401861
+    ]
+   },
+   "properties": {
+    "lugar": "Siria",
+    "tipo": "pais",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.363981,
+     40.481954
+    ]
+   },
+   "properties": {
+    "lugar": "Alcalá de Henares",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7143,
+     40.419
+    ]
+   },
+   "properties": {
+    "lugar": "San Nicolás (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.4698112,
+     44.5088703
+    ]
+   },
+   "properties": {
+    "lugar": "Castenaso",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6889,
+     40.423
+    ]
+   },
+   "properties": {
+    "lugar": "Buenavista (Madrid)",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.3872,
+     45.4397
+    ]
+   },
+   "properties": {
+    "lugar": "Saint-Étienne",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.1694,
+     44.8607
+    ]
+   },
+   "properties": {
+    "lugar": "Abadía de Pomposa (Ferrara)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.8136,
+     41.4736
+    ]
+   },
+   "properties": {
+    "lugar": "Montecasino",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8320114,
+     45.7578137
+    ]
+   },
+   "properties": {
+    "lugar": "Lyon",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71,
+     40.405
+    ]
+   },
+   "properties": {
+    "lugar": "Río Manzanares (Madrid)",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.12456,
+     47.59397
+    ]
+   },
+   "properties": {
+    "lugar": "Austria",
+    "tipo": "pais",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.0710935,
+     59.3251172
+    ]
+   },
+   "properties": {
+    "lugar": "Estocolmo",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.2578499,
+     51.7520131
+    ]
+   },
+   "properties": {
+    "lugar": "Oxford",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.154233,
+     41.3647625
+    ]
+   },
+   "properties": {
+    "lugar": "Montjuïc (Barcelona)",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9339,
+     44.4073
+    ]
+   },
+   "properties": {
+    "lugar": "Teatro Carlo Felice (Génova)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6922,
+     40.4138
+    ]
+   },
+   "properties": {
+    "lugar": "El Prado (Madrid)",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2124277,
+     37.0315752
+    ]
+   },
+   "properties": {
+    "lugar": "Siracusa",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.1087907,
+     42.7186152
+    ]
+   },
+   "properties": {
+    "lugar": "Orvieto",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.2549,
+     43.776
+    ]
+   },
+   "properties": {
+    "lugar": "Teatro Cocomero (Florencia)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.425873,
+     45.7795805
+    ]
+   },
+   "properties": {
+    "lugar": "Brescia",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.5753822,
+     48.1371079
+    ]
+   },
+   "properties": {
+    "lugar": "Múnich",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.6667145,
+     50.6402809
+    ]
+   },
+   "properties": {
+    "lugar": "Bélgica",
+    "tipo": "pais",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.7772781,
+     45.6496485
+    ]
+   },
+   "properties": {
+    "lugar": "Trieste",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.0733934,
+     29.9561422
+    ]
+   },
+   "properties": {
+    "lugar": "Nueva Orleans",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.65,
+     38.7167
+    ]
+   },
+   "properties": {
+    "lugar": "Leucadia (Grecia)",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7093,
+     40.4178
+    ]
+   },
+   "properties": {
+    "lugar": "Teatro de los Caños del Peral (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.3426,
+     44.4949
+    ]
+   },
+   "properties": {
+    "lugar": "Teatro Comunale (Bolonia)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7107,
+     40.4182
+    ]
+   },
+   "properties": {
+    "lugar": "Teatro Real (Madrid)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.9789,
+     41.0338
+    ]
+   },
+   "properties": {
+    "lugar": "Teatro de Pera (Constantinopla)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.0,
+     10.0
+    ]
+   },
+   "properties": {
+    "lugar": "América",
+    "tipo": "region",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.666667,
+     19.333333
+    ]
+   },
+   "properties": {
+    "lugar": "Veracruz",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3481,
+     48.8721
+    ]
+   },
+   "properties": {
+    "lugar": "Théâtre du Gymnase (París)",
+    "tipo": "sala",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.0127,
+     40.8985
+    ]
+   },
+   "properties": {
+    "lugar": "La Granja de San Ildefonso",
+    "tipo": "ciudad",
+    "frecuencia": 1,
+    "frecuencia_no_editorial": 1
+   }
+  }
+ ]
+}
