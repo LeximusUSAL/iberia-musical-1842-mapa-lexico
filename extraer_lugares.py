@@ -1021,7 +1021,7 @@ print("\n── PASO 6: mapa.html ──")
 COLORES = {"ciudad": "blue", "pais": "red", "region": "green",
            "sala": "purple", "REVISAR": "orange"}
 
-mapa     = folium.Map(location=[44, 5], zoom_start=4, tiles="CartoDB positron")
+mapa     = folium.Map(location=[44, 5], zoom_start=4, tiles="OpenStreetMap")
 freq_max = max((d["frecuencia"] for d in lugares_u.values()), default=1)
 
 for nombre, d in lugares_u.items():
